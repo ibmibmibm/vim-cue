@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:	cue
-" Maintainer:	Shen-Ta Hsiea <ibmibmibm.tw@gmail.com>
+" Maintainer:	Shen-Ta Hsieh <ibmibmibm.tw@gmail.com>
 " URL:		http://plasticboy.com/markdown-vim-mode/
 " Version:	1
 " Last Change:	2013 Jan 21
